@@ -1,4 +1,8 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Ghostring-dot.splunk-defacement)
+![repo](https://img.shields.io/badge/Projet-Splunk_Defacement-green)
+![last-commit](https://img.shields.io/github/last-commit/Ghostring-dot/splunk-defacement)
+![language](https://img.shields.io/github/languages/top/Ghostring-dot/splunk-defacement)
+
 
 # 🧠 Projet SOC Blue Team – Analyse d'une attaque web avec Splunk  
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Ghostring-dot.splunk-defacement)
@@ -40,4 +44,5 @@ Ce document contient :
 
 Andrea Zhao  
 Alternant cybersécurité – Blue Team / SOC  
-📎 [Retour au portfolio](../README.md)
+📎 [Retour au portfolio](https://github.com/Ghostring-dot/blue-team-projects-andrea)
+
