@@ -1,3 +1,5 @@
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Ghostring-dot.blue-team-projects-andrea)
+
 # 👋 Hello, I'm Andrea Zhao
 
 <a href="https://www.linkedin.com/in/andrea-z-33774534b/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -37,12 +39,13 @@ Ancien entrepreneur dans la restauration, j’ai engagé une montée en compéte
 
 ## 📁 Projects
 
+
 | Projet | Description | Lien |
 |--------|-------------|------|
-| **📨 Phishing Investigation & Playbook** | Analyse complète d’un email frauduleux (header, lien, pièce jointe .CAB), rédaction d’un playbook SOC L1, IOC + escalade | [voir le projet](./phishing-investigation) |
-| **🧠 Splunk Threat Hunting – Defacement Web** | Scénario complet MITRE (T1595, T1105, T1491.001), dashboard Splunk, requêtes SPL, ticket SOC documenté | [voir le projet](./splunk-defacement) |
-| **🌐 Snort IDS/IPS – TCP Flood** | Simulation de DoS, création de règles Snort, configuration inline IPS (nfqueue), blocage vérifié (690k+ paquets) | [voir le projet](./snort-dos-detection) |
-| **🕵️ Malware PCAP – PowerShell C2** | Analyse de PCAP infecté (authenticatoor.org), extraction IOC, MITRE TTP (T1059, T1547, T1071), rapport post-incident | [voir le projet](./pcap-malware-investigation) |
+| ![repo](https://img.shields.io/badge/Phishing_Investigation-blue)<br>![last-commit](https://img.shields.io/github/last-commit/Ghostring-dot/phishing-investigation)<br>![language](https://img.shields.io/github/languages/top/Ghostring-dot/phishing-investigation) | Analyse complète d’un email frauduleux (.CAB), header, playbook L1, IOC, escalade. | 🔗 [Voir le projet](https://github.com/Ghostring-dot/phishing-investigation) |
+| ![repo](https://img.shields.io/badge/Splunk_Defacement-green)<br>![last-commit](https://img.shields.io/github/last-commit/Ghostring-dot/splunk-defacement)<br>![language](https://img.shields.io/github/languages/top/Ghostring-dot/splunk-defacement) | Scénario MITRE T1595/T1491.001, détection de défacement web, dashboard + requêtes SPL. | 🔗 [Voir le projet](https://github.com/Ghostring-dot/splunk-defacement) |
+| ![repo](https://img.shields.io/badge/Snort_DoS-orange)<br>![last-commit](https://img.shields.io/github/last-commit/Ghostring-dot/snort-dos-detection)<br>![language](https://img.shields.io/github/languages/top/Ghostring-dot/snort-dos-detection) | Simulation de TCP Flood, règles Snort custom, détection + blocage IPS inline. | 🔗 [Voir le projet](https://github.com/Ghostring-dot/snort-dos-detection) |
+| ![repo](https://img.shields.io/badge/Malware_PCAP_Analysis-red)<br>![last-commit](https://img.shields.io/github/last-commit/Ghostring-dot/malware-pcap-analysis)<br>![language](https://img.shields.io/github/languages/top/Ghostring-dot/malware-pcap-analysis) | Analyse réseau d’un malware (authenticatoor.org), PowerShell C2, extraction IOC, mapping MITRE. | 🔗 [Voir le projet](https://github.com/Ghostring-dot/malware-pcap-analysis) |
 
 ---
 
